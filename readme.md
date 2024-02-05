@@ -6,5 +6,5 @@ tasks:
 
 Using concept of throttling
 
-har baar ek div banao, div ko absolute banao, width and height do, overflow hidden karo and div ke andar image banao and us image ko neeche push kardo,
+har baar ek div banao, div ko absolute banao, width and height do, overflow hidden karo ✅ and div ke andar image banao and us image ko neeche push kardo,
 image ko animated way mei upar lao
