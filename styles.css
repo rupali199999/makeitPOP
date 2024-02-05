@@ -14,6 +14,11 @@ html,body{
     transform: translate(-50%,-50%);
     width: 60%;
     height: 60%;
+    font-family: 'Migra Extralight 200';
+    src: url("C:\Users\rupal\Downloads\Migra Extralight 200.otf") format("opentype");
+    font-size: 10rem;
+    
+  
 }
 
 .imagediv{
